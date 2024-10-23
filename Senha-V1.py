@@ -1,6 +1,3 @@
-# Senha-V1
- Você coloca uma senha, e acessa
-
 n1 = []
 
 x = input("Digite uma senha: ")
