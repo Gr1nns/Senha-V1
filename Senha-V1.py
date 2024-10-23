@@ -14,4 +14,4 @@ while True:
         print("Acesso permitido!!")
         break
     else:
-        print("Acesso nergado, tente novamente!")
+        print("Acesso negado, tente novamente!")
